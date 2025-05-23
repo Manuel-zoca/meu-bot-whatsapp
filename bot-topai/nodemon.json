@@ -1,0 +1,6 @@
+{
+    "watch": ["index.js", "helpers/", "db-handler.js", ".env", "eventos.js", "openrouter.js", "models/"],
+    "ignore": ["auth_info/", "creds.json", ".git/", "node_modules/"],
+    "ext": "js,json"
+  }
+  
